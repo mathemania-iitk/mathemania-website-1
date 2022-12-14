@@ -1,7 +1,7 @@
 import { ThemeProvider } from "@material-ui/core/styles";
 import React, { useEffect } from "react";
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Route,
   Switch,
   useLocation,
